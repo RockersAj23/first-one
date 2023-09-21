@@ -1,0 +1,15 @@
+list , tuples and sets
+dist,conditional loop
+for loop , while loop , comprehension & function
+function
+OOPs part 1
+polymorphism
+encapsulation
+inheritance
+abstraction
+decorators
+class methods
+static method
+special(magic/dunder) method
+property decorators
+going on with files...
